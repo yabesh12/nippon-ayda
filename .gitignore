@@ -1,0 +1,8 @@
+*.sqlite3
+venv/
+.env
+static/
+!static/.gitkeep
+media/
+!media/.gitkeep
+.idea
